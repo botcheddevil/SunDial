@@ -1,0 +1,109 @@
+using Toybox.Time.Gregorian as Cal;
+using Toybox.Math as Math;
+using Toybox.Graphics as Gfx;
+using Toybox.Lang as Lang;
+using Toybox.System as Sys;
+
+function drawSun(dc, centerX, centerY, radius, time, location, altitude) {
+
+	var fontHeight = Gfx.getFontHeight(Gfx.FONT_XTINY);
+	var deg2rad = Math.PI / 180.0;
+	if (altitude < 0) {
+		altitude = 0;
+	}
+	var sunTimes = sunRiseSet(time, location, altitude);
+	if (sunTimes == null) {
+	  return(null);
+	}
+
+	var sunRise = Cal.info(sunTimes[0], Cal.FORMAT_SHORT);
+    var sunSet = Cal.info(sunTimes[1], Cal.FORMAT_SHORT);
+    
+    var length = 0;
+	var angle  = 0;
+	var innerX = 0;
+	var outerX = 0;
+	var innerY = 0;
+	var outerY = 0;
+	var fontX  = 0;
+	var fontY  = 0;
+	dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
+	for (var i = 1; i <= 240; i++) {
+		angle = Math.PI * i / 120;
+		// skip hours 12 and 3
+		if (i == 0) {
+			continue;
+		} else if ((i >= ((sunRise.hour * 10) + Math.ceil(sunRise.min/6))) and (i <= (sunSet.hour * 10) + Math.ceil(sunSet.min/6))) {
+			dc.setPenWidth(4);
+			length = 6;
+			innerX = centerX + Math.sin(angle) * (radius - length);
+			innerY = centerY - Math.cos(angle) * (radius - length);
+			fontX = centerX + Math.sin(angle) * (radius - 3*length);
+			fontY = centerY - 2 * length - Math.cos(angle) * (radius - 3 * length);
+		} else {
+			continue;
+		}
+		outerX = centerX + Math.sin(angle) * (radius);
+		outerY = centerY - Math.cos(angle) * (radius);
+	    dc.drawLine(innerX, innerY, outerX, outerY);
+	}
+
+	return(null);
+}
+// formulas taken and modified from
+// https://en.wikipedia.org/wiki/Sunrise_equation
+function sunRiseSet(time, location, altitude) {
+	var JulianOffset = 2451545.0;
+	var deg2rad = Math.PI / 180.0;
+	var tilt = 23.4397;
+	// get the location infos
+	var long = 8.0;
+	var lat  = 50.0;
+	if (location != null) {
+	    //Sys.println("sunRiseSet: Current location!");
+		long = location[1];
+	    lat  = location[0];
+	} else {
+		//Sys.println("sunRiseSet: Cannot get current location!" + location);
+		return(null);
+	}
+
+    var refDate = Cal.moment({ :year=>2000, :month=>1, :day=>1, :hour=>12, :minute=>0, :second=>0 });
+
+	// current rounded days since 1. Jan 2000 12:00 
+	var N = Math.round((time.value() - refDate.value()) / Cal.SECONDS_PER_DAY);
+    
+	// shift by longitude
+  	var J = N - long / 360.0;
+ 
+  	// solar mean anomaly (in degree)
+  	var M = (357.5291 + 0.98560028 * J);
+  	var rest = M - Math.floor(M);
+  	M = (M.toLong() % 360) + rest;
+
+  	// equation of the center
+  	var C = 1.9148 * Math.sin(deg2rad * M) + 0.02 * Math.sin(2.0 * deg2rad * M)  + 0.0003 * Math.sin(3.0 * deg2rad * M);
+
+ 	// ecliptic longitude (degree)
+    var lambda = (M + C + 180.0 + 102.9372);
+    rest = lambda - Math.floor(lambda);
+    lambda = (lambda.toLong() % 360) + rest;
+ 
+  	// time of solar transit (solar noon)
+  	var Jtransit = J + 0.0053 * Math.sin(deg2rad * M) - 0.0069 * Math.sin(2.0 * deg2rad * lambda);
+  	var sunTransit = refDate.value() + Jtransit * Cal.SECONDS_PER_DAY;
+
+  	// declination of the sun (radian)
+  	var delta = Math.asin(Math.sin(deg2rad * lambda) * Math.sin(deg2rad * tilt));
+
+	// hour angle
+  	var omega = (Math.sin(deg2rad * (-0.83 - 2.076 * Math.sqrt(altitude) / 60.0)) - 
+  	Math.sin(deg2rad * lat) * Math.sin(delta)) / (Math.cos(deg2rad * lat) * Math.cos(delta));
+	
+	var	dt = (Jtransit - Math.acos(omega) / (2.0 * Math.PI)) * Cal.SECONDS_PER_DAY;
+	var sunRise = refDate.add(Cal.duration({ :seconds => dt}));
+	dt = (Jtransit + Math.acos(omega) / (2.0 * Math.PI)) * Cal.SECONDS_PER_DAY;
+	var sunSet = refDate.add(Cal.duration({ :seconds => dt}));
+	
+	return([sunRise, sunSet]);
+}

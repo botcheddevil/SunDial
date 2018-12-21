@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="6" pc="268435456" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="7" pc="268435468" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="8" pc="268435475" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="9" pc="268435482" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="10" pc="268435489" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="11" pc="268435496" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="12" pc="268435503" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="13" pc="268435510" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="14" pc="268435517" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="15" pc="268435524" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="16" pc="268435560" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="17" pc="268435578" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="19" pc="268435601" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="20" pc="268435612" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="21" pc="268435618" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="22" pc="268435635" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="23" pc="268435652" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="24" pc="268435659" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="25" pc="268435687" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="26" pc="268435715" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="27" pc="268435746" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="28" pc="268435783" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="29" pc="268435800" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="31" pc="268435841" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="34" pc="268435882" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="36" pc="268435885" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="37" pc="268435910" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="2" lineNum="38" pc="268435935" symbol="drawTicks"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="42" pc="268435969" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="43" pc="268435981" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="44" pc="268435988" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="45" pc="268435995" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="46" pc="268436002" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="47" pc="268436009" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="48" pc="268436016" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="49" pc="268436023" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="50" pc="268436030" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="51" pc="268436037" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="52" pc="268436044" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="53" pc="268436051" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="55" pc="268436087" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="56" pc="268436137" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="57" pc="268436189" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="58" pc="268436250" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="60" pc="268436311" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="62" pc="268436373" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="63" pc="268436435" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="65" pc="268436497" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="66" pc="268436514" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="67" pc="268436521" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="68" pc="268436549" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="70" pc="268436577" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="71" pc="268436602" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="73" pc="268436627" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="74" pc="268436652" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="76" pc="268436677" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="77" pc="268436697" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/ticks.mc" id="3" lineNum="78" pc="268436717" symbol="drawTriangle"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="5" lineNum="5" pc="268436738" symbol="initialize"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="5" lineNum="6" pc="268436742" symbol="initialize"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="6" lineNum="10" pc="268436761" symbol="onStart"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="7" lineNum="14" pc="268436766" symbol="onStop"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="8" lineNum="18" pc="268436771" symbol="getInitialView"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialApp.mc" id="8" lineNum="19" pc="268436775" symbol="getInitialView"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="7" pc="268436813" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="9" pc="268436825" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="10" pc="268436854" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="11" pc="268436874" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="12" pc="268436885" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="14" pc="268436895" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="15" pc="268436914" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="16" pc="268436921" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="19" pc="268436926" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="20" pc="268436963" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="22" pc="268437000" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="23" pc="268437007" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="24" pc="268437014" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="25" pc="268437021" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="26" pc="268437028" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="27" pc="268437035" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="28" pc="268437042" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="29" pc="268437049" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="30" pc="268437056" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="31" pc="268437092" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="32" pc="268437110" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="34" pc="268437133" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="35" pc="268437144" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="36" pc="268437150" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="37" pc="268437253" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="38" pc="268437270" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="39" pc="268437277" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="40" pc="268437305" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="41" pc="268437333" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="42" pc="268437367" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="44" pc="268437413" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="46" pc="268437416" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="47" pc="268437441" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="48" pc="268437466" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="9" lineNum="51" pc="268437499" symbol="drawSun"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="55" pc="268437502" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="56" pc="268437514" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="57" pc="268437521" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="58" pc="268437541" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="60" pc="268437548" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="61" pc="268437555" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="62" pc="268437562" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="64" pc="268437569" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="65" pc="268437579" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="68" pc="268437592" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="71" pc="268437594" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="74" pc="268437695" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="77" pc="268437748" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="80" pc="268437761" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="81" pc="268437777" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="82" pc="268437799" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="85" pc="268437821" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="88" pc="268437915" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="89" pc="268437934" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="90" pc="268437956" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="93" pc="268437978" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="94" pc="268438042" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="97" pc="268438071" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="100" pc="268438129" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="103" pc="268438262" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="104" pc="268438316" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="105" pc="268438360" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="106" pc="268438414" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/suntimes.mc" id="10" lineNum="108" pc="268438458" symbol="sunRiseSet"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="8" pc="268438486" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="10" pc="268438498" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="11" pc="268438527" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="12" pc="268438547" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="13" pc="268438558" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="15" pc="268438568" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="16" pc="268438587" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="17" pc="268438594" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="20" pc="268438599" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="21" pc="268438636" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="23" pc="268438673" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="24" pc="268438680" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="25" pc="268438687" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="26" pc="268438694" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="27" pc="268438701" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="28" pc="268438708" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="29" pc="268438715" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="30" pc="268438722" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="31" pc="268438729" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="32" pc="268438765" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="33" pc="268438783" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="35" pc="268438806" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="36" pc="268438817" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="37" pc="268438823" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="38" pc="268438926" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="39" pc="268438943" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="40" pc="268438950" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="41" pc="268438978" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="42" pc="268439006" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="43" pc="268439040" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="45" pc="268439086" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="47" pc="268439089" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="48" pc="268439114" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="49" pc="268439139" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="11" lineNum="52" pc="268439172" symbol="drawMoon"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="12" lineNum="64" pc="268439175" symbol="rightAscension"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="12" lineNum="64" pc="268439187" symbol="rightAscension"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="13" lineNum="65" pc="268439304" symbol="declination"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="13" lineNum="65" pc="268439316" symbol="declination"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="14" lineNum="67" pc="268439434" symbol="azimuth"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="14" lineNum="67" pc="268439446" symbol="azimuth"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="15" lineNum="68" pc="268439551" symbol="altitude"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="15" lineNum="68" pc="268439563" symbol="altitude"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="16" lineNum="70" pc="268439669" symbol="siderealTime"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="16" lineNum="70" pc="268439681" symbol="siderealTime"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="17" lineNum="72" pc="268439709" symbol="toJulian"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="17" lineNum="72" pc="268439721" symbol="toJulian"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="18" lineNum="73" pc="268439752" symbol="fromJulian"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="18" lineNum="73" pc="268439764" symbol="fromJulian"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="19" lineNum="74" pc="268439812" symbol="toDays"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="19" lineNum="74" pc="268439824" symbol="toDays"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="20" lineNum="76" pc="268439845" symbol="astroRefraction"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="20" lineNum="77" pc="268439857" symbol="astroRefraction"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="20" lineNum="78" pc="268439868" symbol="astroRefraction"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="20" lineNum="83" pc="268439878" symbol="astroRefraction"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="21" lineNum="88" pc="268439918" symbol="solarMeanAnomaly"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="21" lineNum="88" pc="268439930" symbol="solarMeanAnomaly"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="22" lineNum="90" pc="268439955" symbol="eclipticLongitude"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="22" lineNum="92" pc="268439967" symbol="eclipticLongitude"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="22" lineNum="95" pc="268440065" symbol="eclipticLongitude"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="23" lineNum="98" pc="268440084" symbol="sunCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="23" lineNum="100" pc="268440096" symbol="sunCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="23" lineNum="103" pc="268440126" symbol="sunCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="24" lineNum="109" pc="268440186" symbol="moonCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="24" lineNum="111" pc="268440198" symbol="moonCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="24" lineNum="112" pc="268440218" symbol="moonCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="24" lineNum="120" pc="268440365" symbol="moonCoords"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="25" lineNum="127" pc="268440429" symbol="getMoonPosition"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="25" lineNum="129" pc="268440441" symbol="getMoonPosition"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="25" lineNum="138" pc="268440703" symbol="getMoonPosition"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="25" lineNum="140" pc="268440721" symbol="getMoonPosition"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="26" lineNum="153" pc="268440812" symbol="getMoonIllumination"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="26" lineNum="155" pc="268440824" symbol="getMoonIllumination"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="26" lineNum="166" pc="268441408" symbol="getMoonIllumination"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="27" lineNum="174" pc="268441519" symbol="hoursLater"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="27" lineNum="175" pc="268441531" symbol="hoursLater"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="27" lineNum="176" pc="268441570" symbol="hoursLater"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="27" lineNum="177" pc="268441613" symbol="hoursLater"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="182" pc="268441628" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="183" pc="268441640" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="188" pc="268441727" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="189" pc="268441745" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="190" pc="268441794" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="191" pc="268441849" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="192" pc="268441894" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="193" pc="268441910" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="194" pc="268441923" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="195" pc="268441956" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="196" pc="268441975" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="197" pc="268441991" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="198" pc="268442010" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="200" pc="268442017" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="201" pc="268442028" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="202" pc="268442065" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="203" pc="268442072" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="204" pc="268442079" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="205" pc="268442099" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="207" pc="268442112" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="208" pc="268442132" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="210" pc="268442145" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="211" pc="268442156" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="215" pc="268442166" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="216" pc="268442177" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="217" pc="268442188" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="219" pc="268442198" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="222" pc="268442208" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="223" pc="268442219" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="224" pc="268442242" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="227" pc="268442268" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="228" pc="268442281" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="231" pc="268442287" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="234" pc="268442304" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="236" pc="268442312" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="237" pc="268442317" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="239" pc="268442352" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="240" pc="268442357" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="243" pc="268442392" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="244" pc="268442407" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="245" pc="268442418" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="247" pc="268442440" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/moontimes.mc" id="28" lineNum="251" pc="268442462" symbol="getMoonTimes"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="30" lineNum="23" pc="268442466" symbol="initialize"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="30" lineNum="24" pc="268442470" symbol="initialize"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="28" pc="268442489" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="29" pc="268442493" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="30" pc="268442536" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="31" pc="268442579" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="32" pc="268442622" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="33" pc="268442665" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="34" pc="268442690" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="35" pc="268442715" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="31" lineNum="36" pc="268442762" symbol="onLayout"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="32" lineNum="42" pc="268442800" symbol="onShow"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="46" pc="268442805" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="49" pc="268442809" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="50" pc="268442845" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="52" pc="268442857" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="53" pc="268442893" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="57" pc="268442910" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="58" pc="268442927" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="59" pc="268442940" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="61" pc="268443041" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="64" pc="268443125" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="66" pc="268443179" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="67" pc="268443204" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="68" pc="268443229" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="72" pc="268443279" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="73" pc="268443315" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="76" pc="268443452" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="77" pc="268443488" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="80" pc="268443643" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="81" pc="268443679" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="84" pc="268443822" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="85" pc="268443829" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="86" pc="268443839" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="87" pc="268443852" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="90" pc="268443874" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="91" pc="268443884" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="92" pc="268443897" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="95" pc="268443928" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="98" pc="268444027" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="99" pc="268444125" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="100" pc="268444223" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="33" lineNum="102" pc="268444321" symbol="onUpdate"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="34" lineNum="109" pc="268444360" symbol="onHide"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="35" lineNum="113" pc="268444365" symbol="onExitSleep"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="35" lineNum="114" pc="268444369" symbol="onExitSleep"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="36" lineNum="118" pc="268444386" symbol="onEnterSleep"/>
+<entry filename="/Users/anshuk/Projects/Tests/Java/SunDial/source/SundialView.mc" id="36" lineNum="119" pc="268444390" symbol="onEnterSleep"/>
+<entry filename="Rez" id="43" lineNum="24" pc="268444407" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="28" pc="268444419" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="29" pc="268444590" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="30" pc="268444623" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="31" pc="268444675" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="32" pc="268444721" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="33" pc="268444892" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="34" pc="268444925" symbol="WatchFace"/>
+<entry filename="Rez" id="43" lineNum="37" pc="268444977" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="15" symbol="dayMs"/>
+<entry field="true" id="8389306" symbol="lon"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="13" method="true" symbol="sunRiseSet"/>
+<entry id="26" method="true" symbol="toDays"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="21" method="true" symbol="declination"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="34" method="true" symbol="hoursLater"/>
+<entry field="true" id="8389759" symbol="radius"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="27" method="true" symbol="astroRefraction"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8389305" symbol="lat"/>
+<entry id="11" object="true" symbol="SundialApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="47" symbol="suntime"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="28" method="true" symbol="solarMeanAnomaly"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="9" method="true" symbol="drawTicks"/>
+<entry field="true" id="46" symbol="centerY"/>
+<entry field="true" id="45" symbol="centerX"/>
+<entry id="33" method="true" symbol="getMoonIllumination"/>
+<entry id="25" method="true" symbol="fromJulian"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="18" symbol="rad"/>
+<entry id="35" method="true" symbol="getMoonTimes"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="44" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="29" method="true" symbol="eclipticLongitude"/>
+<entry id="30" method="true" symbol="sunCoords"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="14" method="true" symbol="drawMoon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="32" method="true" symbol="getMoonPosition"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="24" method="true" symbol="toJulian"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388963" method="true" symbol="altitude"/>
+<entry id="10" method="true" symbol="drawTriangle"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="40" symbol="hooge55"/>
+<entry id="8389344" symbol="seconds"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="41" symbol="hooge20"/>
+<entry field="true" id="42" symbol="hooge15"/>
+<entry field="true" id="43" symbol="hooge10"/>
+<entry id="8389347" symbol="color"/>
+<entry id="22" method="true" symbol="azimuth"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry id="12" method="true" symbol="drawSun"/>
+<entry id="8389338" symbol="minute"/>
+<entry id="8389339" symbol="second"/>
+<entry field="true" id="16" symbol="J1970"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="38" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="37" module="true" symbol="Menus"/>
+<entry field="true" id="17" symbol="J2000"/>
+<entry id="23" method="true" symbol="siderealTime"/>
+<entry id="36" object="true" symbol="SundialView"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="31" method="true" symbol="moonCoords"/>
+<entry field="true" id="19" symbol="e"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="20" method="true" symbol="rightAscension"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435968" name="i" stackId="15" startPc="268435578"/>
+<entry endPc="268435968" name="outerY" stackId="12" startPc="268435468"/>
+<entry endPc="268435968" name="outerX" stackId="10" startPc="268435468"/>
+<entry endPc="268435968" name="fontY" stackId="14" startPc="268435468"/>
+<entry endPc="268435968" name="fontX" stackId="13" startPc="268435468"/>
+<entry endPc="268435968" name="innerY" stackId="11" startPc="268435468"/>
+<entry endPc="268435968" name="innerX" stackId="9" startPc="268435468"/>
+<entry endPc="268435968" name="length" stackId="7" startPc="268435468"/>
+<entry endPc="268435968" name="angle" stackId="8" startPc="268435468"/>
+<entry endPc="268435969" name="radius" stackId="4" startPc="268435456"/>
+<entry endPc="268435969" name="dc" stackId="1" startPc="268435456"/>
+<entry endPc="268435969" name="fontL" stackId="5" startPc="268435456"/>
+<entry endPc="268435969" name="centerY" stackId="3" startPc="268435456"/>
+<entry endPc="268435969" name="centerX" stackId="2" startPc="268435456"/>
+<entry endPc="268435969" name="fontS" stackId="6" startPc="268435456"/>
+<entry endPc="268436737" name="anglePrev" stackId="20" startPc="268435981"/>
+<entry endPc="268436737" name="outerXPrev" stackId="9" startPc="268435981"/>
+<entry endPc="268436737" name="length" stackId="5" startPc="268435981"/>
+<entry endPc="268436737" name="outerYNext" stackId="11" startPc="268435981"/>
+<entry endPc="268436737" name="angleNext" stackId="19" startPc="268435981"/>
+<entry endPc="268436737" name="outerXNext" stackId="8" startPc="268435981"/>
+<entry endPc="268436737" name="angle" stackId="6" startPc="268435981"/>
+<entry endPc="268436737" name="innerY" stackId="10" startPc="268435981"/>
+<entry endPc="268436737" name="innerX" stackId="7" startPc="268435981"/>
+<entry endPc="268436737" name="todayAfter5Mins" stackId="17" startPc="268435981"/>
+<entry endPc="268436737" name="today" stackId="15" startPc="268435981"/>
+<entry endPc="268436737" name="gap" stackId="16" startPc="268435981"/>
+<entry endPc="268436737" name="fontY" stackId="14" startPc="268435981"/>
+<entry endPc="268436737" name="fontX" stackId="13" startPc="268435981"/>
+<entry endPc="268436737" name="todayBefore5Mins" stackId="18" startPc="268435981"/>
+<entry endPc="268436737" name="outerYPrev" stackId="12" startPc="268435981"/>
+<entry endPc="268436738" name="radius" stackId="4" startPc="268435969"/>
+<entry endPc="268436738" name="dc" stackId="1" startPc="268435969"/>
+<entry endPc="268436738" name="centerY" stackId="3" startPc="268435969"/>
+<entry endPc="268436738" name="centerX" stackId="2" startPc="268435969"/>
+<entry endPc="268436766" name="state" stackId="1" startPc="268436761"/>
+<entry endPc="268436771" name="state" stackId="1" startPc="268436766"/>
+<entry endPc="268437499" name="i" stackId="21" startPc="268437110"/>
+<entry endPc="268437501" name="outerY" stackId="18" startPc="268436825"/>
+<entry endPc="268437501" name="outerX" stackId="16" startPc="268436825"/>
+<entry endPc="268437501" name="fontHeight" stackId="8" startPc="268436825"/>
+<entry endPc="268437501" name="length" stackId="13" startPc="268436825"/>
+<entry endPc="268437501" name="sunSet" stackId="12" startPc="268436825"/>
+<entry endPc="268437501" name="angle" stackId="14" startPc="268436825"/>
+<entry endPc="268437501" name="innerY" stackId="17" startPc="268436825"/>
+<entry endPc="268437501" name="innerX" stackId="15" startPc="268436825"/>
+<entry endPc="268437501" name="sunTimes" stackId="10" startPc="268436825"/>
+<entry endPc="268437501" name="fontY" stackId="20" startPc="268436825"/>
+<entry endPc="268437501" name="sunRise" stackId="11" startPc="268436825"/>
+<entry endPc="268437501" name="deg2rad" stackId="9" startPc="268436825"/>
+<entry endPc="268437501" name="fontX" stackId="19" startPc="268436825"/>
+<entry endPc="268437502" name="altitude" stackId="7" startPc="268436813"/>
+<entry endPc="268437502" name="radius" stackId="4" startPc="268436813"/>
+<entry endPc="268437502" name="location" stackId="6" startPc="268436813"/>
+<entry endPc="268437502" name="dc" stackId="1" startPc="268436813"/>
+<entry endPc="268437502" name="centerY" stackId="3" startPc="268436813"/>
+<entry endPc="268437502" name="time" stackId="5" startPc="268436813"/>
+<entry endPc="268437502" name="centerX" stackId="2" startPc="268436813"/>
+<entry endPc="268438485" name="sunRise" stackId="21" startPc="268437514"/>
+<entry endPc="268438485" name="lat" stackId="8" startPc="268437514"/>
+<entry endPc="268438485" name="N" stackId="10" startPc="268437514"/>
+<entry endPc="268438485" name="deg2rad" stackId="5" startPc="268437514"/>
+<entry endPc="268438485" name="M" stackId="12" startPc="268437514"/>
+<entry endPc="268438485" name="J" stackId="11" startPc="268437514"/>
+<entry endPc="268438485" name="JulianOffset" stackId="4" startPc="268437514"/>
+<entry endPc="268438485" name="lambda" stackId="15" startPc="268437514"/>
+<entry endPc="268438485" name="sunSet" stackId="22" startPc="268437514"/>
+<entry endPc="268438485" name="rest" stackId="13" startPc="268437514"/>
+<entry endPc="268438485" name="refDate" stackId="9" startPc="268437514"/>
+<entry endPc="268438485" name="dt" stackId="20" startPc="268437514"/>
+<entry endPc="268438485" name="C" stackId="14" startPc="268437514"/>
+<entry endPc="268438485" name="Jtransit" stackId="16" startPc="268437514"/>
+<entry endPc="268438485" name="omega" stackId="19" startPc="268437514"/>
+<entry endPc="268438485" name="tilt" stackId="6" startPc="268437514"/>
+<entry endPc="268438485" name="long" stackId="7" startPc="268437514"/>
+<entry endPc="268438485" name="delta" stackId="18" startPc="268437514"/>
+<entry endPc="268438485" name="sunTransit" stackId="17" startPc="268437514"/>
+<entry endPc="268438486" name="altitude" stackId="3" startPc="268437502"/>
+<entry endPc="268438486" name="location" stackId="2" startPc="268437502"/>
+<entry endPc="268438486" name="time" stackId="1" startPc="268437502"/>
+<entry endPc="268439172" name="i" stackId="21" startPc="268438783"/>
+<entry endPc="268439174" name="outerY" stackId="18" startPc="268438498"/>
+<entry endPc="268439174" name="outerX" stackId="16" startPc="268438498"/>
+<entry endPc="268439174" name="fontHeight" stackId="8" startPc="268438498"/>
+<entry endPc="268439174" name="length" stackId="13" startPc="268438498"/>
+<entry endPc="268439174" name="sunSet" stackId="12" startPc="268438498"/>
+<entry endPc="268439174" name="angle" stackId="14" startPc="268438498"/>
+<entry endPc="268439174" name="innerY" stackId="17" startPc="268438498"/>
+<entry endPc="268439174" name="innerX" stackId="15" startPc="268438498"/>
+<entry endPc="268439174" name="sunTimes" stackId="10" startPc="268438498"/>
+<entry endPc="268439174" name="fontY" stackId="20" startPc="268438498"/>
+<entry endPc="268439174" name="sunRise" stackId="11" startPc="268438498"/>
+<entry endPc="268439174" name="deg2rad" stackId="9" startPc="268438498"/>
+<entry endPc="268439174" name="fontX" stackId="19" startPc="268438498"/>
+<entry endPc="268439175" name="altitude" stackId="7" startPc="268438486"/>
+<entry endPc="268439175" name="radius" stackId="4" startPc="268438486"/>
+<entry endPc="268439175" name="location" stackId="6" startPc="268438486"/>
+<entry endPc="268439175" name="dc" stackId="1" startPc="268438486"/>
+<entry endPc="268439175" name="centerY" stackId="3" startPc="268438486"/>
+<entry endPc="268439175" name="time" stackId="5" startPc="268438486"/>
+<entry endPc="268439175" name="centerX" stackId="2" startPc="268438486"/>
+<entry endPc="268439304" name="b" stackId="2" startPc="268439175"/>
+<entry endPc="268439304" name="l" stackId="1" startPc="268439175"/>
+<entry endPc="268439434" name="b" stackId="2" startPc="268439304"/>
+<entry endPc="268439434" name="l" stackId="1" startPc="268439304"/>
+<entry endPc="268439551" name="H" stackId="1" startPc="268439434"/>
+<entry endPc="268439551" name="phi" stackId="2" startPc="268439434"/>
+<entry endPc="268439551" name="dec" stackId="3" startPc="268439434"/>
+<entry endPc="268439669" name="H" stackId="1" startPc="268439551"/>
+<entry endPc="268439669" name="phi" stackId="2" startPc="268439551"/>
+<entry endPc="268439669" name="dec" stackId="3" startPc="268439551"/>
+<entry endPc="268439709" name="lw" stackId="2" startPc="268439669"/>
+<entry endPc="268439709" name="d" stackId="1" startPc="268439669"/>
+<entry endPc="268439752" name="date" stackId="1" startPc="268439709"/>
+<entry endPc="268439812" name="j" stackId="1" startPc="268439752"/>
+<entry endPc="268439845" name="date" stackId="1" startPc="268439812"/>
+<entry endPc="268439918" name="h" stackId="1" startPc="268439845"/>
+<entry endPc="268439955" name="d" stackId="1" startPc="268439918"/>
+<entry endPc="268440083" name="P" stackId="3" startPc="268439967"/>
+<entry endPc="268440083" name="C" stackId="2" startPc="268439967"/>
+<entry endPc="268440084" name="M" stackId="1" startPc="268439955"/>
+<entry endPc="268440185" name="L" stackId="3" startPc="268440096"/>
+<entry endPc="268440185" name="M" stackId="2" startPc="268440096"/>
+<entry endPc="268440186" name="d" stackId="1" startPc="268440084"/>
+<entry endPc="268440428" name="b" stackId="7" startPc="268440198"/>
+<entry endPc="268440428" name="L" stackId="3" startPc="268440198"/>
+<entry endPc="268440428" name="rad" stackId="2" startPc="268440198"/>
+<entry endPc="268440428" name="l" stackId="6" startPc="268440198"/>
+<entry endPc="268440428" name="dt" stackId="8" startPc="268440198"/>
+<entry endPc="268440428" name="F" stackId="5" startPc="268440198"/>
+<entry endPc="268440428" name="M" stackId="4" startPc="268440198"/>
+<entry endPc="268440429" name="d" stackId="1" startPc="268440186"/>
+<entry endPc="268440811" name="H" stackId="8" startPc="268440441"/>
+<entry endPc="268440811" name="pa" stackId="10" startPc="268440441"/>
+<entry endPc="268440811" name="h" stackId="9" startPc="268440441"/>
+<entry endPc="268440811" name="phi" stackId="5" startPc="268440441"/>
+<entry endPc="268440811" name="lw" stackId="4" startPc="268440441"/>
+<entry endPc="268440811" name="d" stackId="6" startPc="268440441"/>
+<entry endPc="268440811" name="c" stackId="7" startPc="268440441"/>
+<entry endPc="268440812" name="lng" stackId="3" startPc="268440429"/>
+<entry endPc="268440812" name="date" stackId="1" startPc="268440429"/>
+<entry endPc="268440812" name="lat" stackId="2" startPc="268440429"/>
+<entry endPc="268441518" name="m" stackId="4" startPc="268440824"/>
+<entry endPc="268441518" name="s" stackId="3" startPc="268440824"/>
+<entry endPc="268441518" name="phi" stackId="6" startPc="268440824"/>
+<entry endPc="268441518" name="sdist" stackId="5" startPc="268440824"/>
+<entry endPc="268441518" name="inc" stackId="7" startPc="268440824"/>
+<entry endPc="268441518" name="angle" stackId="8" startPc="268440824"/>
+<entry endPc="268441518" name="d" stackId="2" startPc="268440824"/>
+<entry endPc="268441519" name="date" stackId="1" startPc="268440812"/>
+<entry endPc="268441627" name="hours" stackId="4" startPc="268441531"/>
+<entry endPc="268441627" name="today" stackId="3" startPc="268441531"/>
+<entry endPc="268441628" name="date" stackId="1" startPc="268441519"/>
+<entry endPc="268441628" name="h" stackId="2" startPc="268441519"/>
+<entry endPc="268442304" name="i" stackId="19" startPc="268441745"/>
+<entry endPc="268442465" name="x2" stackId="17" startPc="268441640"/>
+<entry endPc="268442465" name="x1" stackId="16" startPc="268441640"/>
+<entry endPc="268442465" name="ye" stackId="13" startPc="268441640"/>
+<entry endPc="268442465" name="hc" stackId="4" startPc="268441640"/>
+<entry endPc="268442465" name="d" stackId="14" startPc="268441640"/>
+<entry endPc="268442465" name="h2" stackId="7" startPc="268441640"/>
+<entry endPc="268442465" name="h1" stackId="6" startPc="268441640"/>
+<entry endPc="268442465" name="rise" stackId="8" startPc="268441640"/>
+<entry endPc="268442465" name="h0" stackId="5" startPc="268441640"/>
+<entry endPc="268442465" name="b" stackId="11" startPc="268441640"/>
+<entry endPc="268442465" name="a" stackId="10" startPc="268441640"/>
+<entry endPc="268442465" name="set" stackId="9" startPc="268441640"/>
+<entry endPc="268442465" name="xe" stackId="12" startPc="268441640"/>
+<entry endPc="268442465" name="roots" stackId="15" startPc="268441640"/>
+<entry endPc="268442465" name="result" stackId="20" startPc="268441640"/>
+<entry endPc="268442465" name="dx" stackId="18" startPc="268441640"/>
+<entry endPc="268442466" name="lng" stackId="3" startPc="268441628"/>
+<entry endPc="268442466" name="t" stackId="1" startPc="268441628"/>
+<entry endPc="268442466" name="lat" stackId="2" startPc="268441628"/>
+<entry endPc="268442800" name="dc" stackId="1" startPc="268442489"/>
+<entry endPc="268444359" name="today" stackId="5" startPc="268442809"/>
+<entry endPc="268444359" name="fontHeight20" stackId="4" startPc="268442809"/>
+<entry endPc="268444359" name="fontHeight" stackId="3" startPc="268442809"/>
+<entry endPc="268444359" name="infoText" stackId="6" startPc="268442809"/>
+<entry endPc="268444359" name="info" stackId="2" startPc="268442809"/>
+<entry endPc="268444360" name="dc" stackId="1" startPc="268442805"/>
+<entry endPc="268445004" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268444419"/>
+<entry endPc="268445004" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268444419"/>
+<entry endPc="268445004" name="rez_cmp_local_bitmap_NameLabel_fontHeight" stackId="5" startPc="268444419"/>
+<entry endPc="268445004" name="rez_cmp_local_bitmap_NameLabel" stackId="4" startPc="268444419"/>
+<entry endPc="268445005" name="dc" stackId="1" startPc="268444407"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="drawTicks">
+<param id="dc"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="radius"/>
+<param id="fontL"/>
+<param id="fontS"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTriangle">
+<param id="dc"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="radius"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SundialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SundialApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SundialApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SundialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSun">
+<param id="dc"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="radius"/>
+<param id="time"/>
+<param id="location"/>
+<param id="altitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sunRiseSet">
+<param id="time"/>
+<param id="location"/>
+<param id="altitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMoon">
+<param id="dc"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="radius"/>
+<param id="time"/>
+<param id="location"/>
+<param id="altitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="rightAscension">
+<param id="l"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="declination">
+<param id="l"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="azimuth">
+<param id="H"/>
+<param id="phi"/>
+<param id="dec"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="altitude">
+<param id="H"/>
+<param id="phi"/>
+<param id="dec"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="siderealTime">
+<param id="d"/>
+<param id="lw"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="toJulian">
+<param id="date"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fromJulian">
+<param id="j"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="toDays">
+<param id="date"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="astroRefraction">
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="solarMeanAnomaly">
+<param id="d"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="eclipticLongitude">
+<param id="M"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sunCoords">
+<param id="d"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="moonCoords">
+<param id="d"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMoonPosition">
+<param id="date"/>
+<param id="lat"/>
+<param id="lng"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMoonIllumination">
+<param id="date"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="hoursLater">
+<param id="date"/>
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMoonTimes">
+<param id="t"/>
+<param id="lat"/>
+<param id="lng"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SundialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SundialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SundialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SundialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SundialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SundialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SundialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="406" parentId="globals" symbolId="SundialApp" type="class"/>
+<dataEntry offset="477" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="556" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="595" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="626" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="689" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="720" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="759" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="798" parentId="globals" symbolId="SundialView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
